@@ -1,0 +1,26 @@
+Основные статистики:
+
+GP - Games Played
+MPG - Minutes Per Game
+FG% - Field Goals Percentage
+3P% - 3-Points Percentage
+FT% - Free Throws Percentage
+TOV - Turnovers
+PF - Personal Fouls
+RPG - Rebounds Per Game
+APG - Assists Per Game
+SPG - Steals Per Game
+BPG - Blocks Per Game
+PPG - Points Per Game
+
+
+Статистики, которые не будем учитывать:
+
+FGM - Field Goals Made
+FGA - Field Goals Attempt
+3PM - 3-Points Made
+3PA  - 3-Points Attempt
+FTM - Free Throws Made
+FTA - Free Throws Attempt
+ORB - Offensive Rebound (Per Game)
+DRB - Defensive Rebound (Per Game)
